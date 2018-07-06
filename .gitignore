@@ -1,0 +1,10 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+Content/2DSideScroller/Textures/running.uasset
