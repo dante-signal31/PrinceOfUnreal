@@ -34,6 +34,6 @@ my resulting codebase in that project.
 
 I've really enjoyed my experience developing in Unity in contrast with my experience with Unreal.
 
-**If you are interested in game development you'd better have a look to my [Unity version](https://github.com/dante-signal31/Prince_of_Unity).**
+***If you are interested in game development you'd better have a look to my [Unity version](https://github.com/dante-signal31/Prince_of_Unity), instead of this one***
 
 I'll keep this Unreal version here for those who like to learn from mistakes...but don't expect updates.
